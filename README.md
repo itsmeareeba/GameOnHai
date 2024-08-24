@@ -1,6 +1,8 @@
 # GameOnHai
  Hyper Casual Cricket Game
  "Game on Hai" is a hyper-casual 3D cricket game designed to fill the gap in the market for simple and also engaging cricket games which is best for casual gamers. The project's purpose is to combine the excitement of cricket with the addictive nature of hyper-casual games. It features two primary characters i.e. a bowler and a batsman. All the cricket games out in the market either have too much complexity or do not have very exciting gameplay and are hence unattractive to casual players. "Game on Hai" is for solving this problem: to provide an easy-to-play, nice-looking, and engaging cricket game.
+
+
  ![bandicam 2024-08-18 15-49-28-221](https://github.com/user-attachments/assets/c36061be-c123-47ce-a97d-4c94d10dc008)
 ![bandicam 2024-08-18 15-49-42-900](https://github.com/user-attachments/assets/c14f6e80-38dc-49d4-95d1-c993dfd39460)
 ![bandicam 2024-08-18 15-51-33-598](https://github.com/user-attachments/assets/c872c6dc-0245-4cef-8b2e-875f09f2f4eb)
